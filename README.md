@@ -12,21 +12,7 @@ An end-to-end machine learning platform for materials design: it unifies heterog
 
 ## Workflow
 
-```
- Raw data (experiments · literature · process logs)
-        │
-        ▼
- ① Data Integration ──► ② Reverse Design ──► ③ Validation Protocol
-   ETL, unit harmonization,   Forward DNN + L-BFGS-B      ASTM/ISO standards mapping,
-   outlier handling,          inversion, Pareto           synthesis & test protocols
-   GAN augmentation           optimization                     │
-        ▲                                                      │ experimental feedback
-        └──────────────── ④ Autonomous Experiment ◄────────────┘
-                           Bayesian optimization + active learning,
-                           automatic retraining, next-experiment ranking
-
- ⑤ Desktop GUI: one control panel for all modules, with a results dashboard
-```
+![Workflow of the five modules](docs/workflow.png)
 
 ## Modules
 
