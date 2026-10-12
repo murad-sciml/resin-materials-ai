@@ -1,0 +1,589 @@
+[
+  {
+    "paper_id": "LIT-2017-000",
+    "doi": "10.1000/binder.1957",
+    "VOC_ratio_pct": 14.5,
+    "SiO2_Na2O_molar_ratio": 1.71,
+    "additive_list": [
+      "slag",
+      "fly_ash"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 18.24,
+    "flexural_strength_MPa": 5.87,
+    "viscosity_cP": 708.1,
+    "cure_time_min": 1730.0,
+    "CO2_g": 175684.0
+  },
+  {
+    "paper_id": "LIT-2017-001",
+    "doi": "10.1000/binder.6970",
+    "VOC_ratio_pct": 18.0,
+    "SiO2_Na2O_molar_ratio": 1.13,
+    "additive_list": [
+      "plasticizer"
+    ],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 8.86,
+    "flexural_strength_MPa": 4.68,
+    "viscosity_cP": 577.5,
+    "cure_time_min": 1463.0,
+    "CO2_g": 190848.0
+  },
+  {
+    "paper_id": "LIT-2018-002",
+    "doi": "10.1000/binder.2821",
+    "VOC_ratio_pct": 24.0,
+    "SiO2_Na2O_molar_ratio": 1.54,
+    "additive_list": [
+      "fiber_reinforcement",
+      "silica_fume"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 7.15,
+    "flexural_strength_MPa": 3.2,
+    "viscosity_cP": 648.6,
+    "cure_time_min": 1723.0,
+    "CO2_g": 197932.0
+  },
+  {
+    "paper_id": "LIT-2024-003",
+    "doi": "10.1000/binder.8204",
+    "VOC_ratio_pct": 29.0,
+    "SiO2_Na2O_molar_ratio": 1.33,
+    "additive_list": [
+      "plasticizer"
+    ],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 3.04,
+    "viscosity_cP": 719.4,
+    "cure_time_min": 2185.0,
+    "CO2_g": 202967.0
+  },
+  {
+    "paper_id": "LIT-2022-004",
+    "doi": "10.1000/binder.5949",
+    "VOC_ratio_pct": 24.6,
+    "SiO2_Na2O_molar_ratio": 2.16,
+    "additive_list": [],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 8.91,
+    "flexural_strength_MPa": 4.54,
+    "viscosity_cP": 866.7,
+    "cure_time_min": 2035.0,
+    "CO2_g": 186617.0
+  },
+  {
+    "paper_id": "LIT-2024-005",
+    "doi": "10.1000/binder.4916",
+    "VOC_ratio_pct": 8.7,
+    "SiO2_Na2O_molar_ratio": 1.89,
+    "additive_list": [
+      "fly_ash",
+      "slag"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 30.54,
+    "flexural_strength_MPa": 8.06,
+    "viscosity_cP": 666.3,
+    "cure_time_min": 2871.0,
+    "CO2_g": 164295.0
+  },
+  {
+    "paper_id": "LIT-2015-006",
+    "doi": "10.1000/binder.8858",
+    "VOC_ratio_pct": 33.6,
+    "SiO2_Na2O_molar_ratio": 2.47,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": -0.24,
+    "flexural_strength_MPa": 3.42,
+    "viscosity_cP": 903.5,
+    "cure_time_min": 655.0,
+    "CO2_g": 190791.0
+  },
+  {
+    "paper_id": "LIT-2015-007",
+    "doi": "10.1000/binder.3358",
+    "VOC_ratio_pct": 37.3,
+    "SiO2_Na2O_molar_ratio": 1.7,
+    "additive_list": [],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": -0.97,
+    "flexural_strength_MPa": 3.74,
+    "viscosity_cP": 882.9,
+    "cure_time_min": 2398.0,
+    "CO2_g": 213259.0
+  },
+  {
+    "paper_id": "LIT-2024-008",
+    "doi": "10.1000/binder.2045",
+    "VOC_ratio_pct": 8.5,
+    "SiO2_Na2O_molar_ratio": 1.08,
+    "additive_list": [
+      "fiber_reinforcement"
+    ],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 17.76,
+    "flexural_strength_MPa": 6.46,
+    "viscosity_cP": 574.7,
+    "cure_time_min": 1336.0,
+    "CO2_g": 185393.0
+  },
+  {
+    "paper_id": "LIT-2024-009",
+    "doi": "10.1000/binder.6765",
+    "VOC_ratio_pct": 13.7,
+    "SiO2_Na2O_molar_ratio": 1.83,
+    "additive_list": [
+      "slag"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 19.98,
+    "flexural_strength_MPa": 5.96,
+    "viscosity_cP": 700.3,
+    "cure_time_min": 2321.0,
+    "CO2_g": 161130.0
+  },
+  {
+    "paper_id": "LIT-2015-010",
+    "doi": "10.1000/binder.9625",
+    "VOC_ratio_pct": 11.1,
+    "SiO2_Na2O_molar_ratio": 2.89,
+    "additive_list": [
+      "silica_fume",
+      "slag"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 29.18,
+    "flexural_strength_MPa": 7.55,
+    "viscosity_cP": 902.9,
+    "cure_time_min": 2629.0,
+    "CO2_g": 148875.0
+  },
+  {
+    "paper_id": "LIT-2024-011",
+    "doi": "10.1000/binder.4622",
+    "VOC_ratio_pct": 34.7,
+    "SiO2_Na2O_molar_ratio": 1.64,
+    "additive_list": [
+      "silica_fume",
+      "plasticizer"
+    ],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 5.06,
+    "flexural_strength_MPa": 2.56,
+    "viscosity_cP": 818.1,
+    "cure_time_min": 2858.0,
+    "CO2_g": 223141.0
+  },
+  {
+    "paper_id": "LIT-2015-012",
+    "doi": "10.1000/binder.8911",
+    "VOC_ratio_pct": 36.9,
+    "SiO2_Na2O_molar_ratio": 2.01,
+    "additive_list": [
+      "fiber_reinforcement",
+      "silica_fume"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 2.64,
+    "flexural_strength_MPa": 3.23,
+    "viscosity_cP": 865.6,
+    "cure_time_min": 935.0,
+    "CO2_g": 177541.0
+  },
+  {
+    "paper_id": "LIT-2022-013",
+    "doi": "10.1000/binder.6211",
+    "VOC_ratio_pct": 6.5,
+    "SiO2_Na2O_molar_ratio": 2.89,
+    "additive_list": [
+      "fly_ash",
+      "fiber_reinforcement"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 33.97,
+    "flexural_strength_MPa": 8.47,
+    "viscosity_cP": 806.5,
+    "cure_time_min": 1433.0,
+    "CO2_g": 133768.0
+  },
+  {
+    "paper_id": "LIT-2020-014",
+    "doi": "10.1000/binder.9035",
+    "VOC_ratio_pct": 16.6,
+    "SiO2_Na2O_molar_ratio": 2.02,
+    "additive_list": [
+      "plasticizer"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 17.14,
+    "viscosity_cP": 796.2,
+    "cure_time_min": 2727.0,
+    "CO2_g": 155348.0
+  },
+  {
+    "paper_id": "LIT-2024-015",
+    "doi": "10.1000/binder.2748",
+    "VOC_ratio_pct": 11.7,
+    "SiO2_Na2O_molar_ratio": 3.22,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 32.39,
+    "viscosity_cP": 929.8,
+    "cure_time_min": 2747.0,
+    "CO2_g": 111319.0
+  },
+  {
+    "paper_id": "LIT-2018-016",
+    "doi": "10.1000/binder.1510",
+    "VOC_ratio_pct": 21.4,
+    "SiO2_Na2O_molar_ratio": 3.3,
+    "additive_list": [
+      "silica_fume"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 17.92,
+    "flexural_strength_MPa": 6.44,
+    "viscosity_cP": 975.6,
+    "cure_time_min": 1216.0,
+    "CO2_g": 125265.0
+  },
+  {
+    "paper_id": "LIT-2015-017",
+    "doi": "10.1000/binder.9328",
+    "VOC_ratio_pct": 37.3,
+    "SiO2_Na2O_molar_ratio": 1.78,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 3.14,
+    "flexural_strength_MPa": 3.97,
+    "viscosity_cP": 834.0,
+    "cure_time_min": 2756.0,
+    "CO2_g": 199683.0
+  },
+  {
+    "paper_id": "LIT-2024-018",
+    "doi": "10.1000/binder.6215",
+    "VOC_ratio_pct": 7.5,
+    "SiO2_Na2O_molar_ratio": 2.84,
+    "additive_list": [
+      "slag",
+      "silica_fume"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 33.87,
+    "flexural_strength_MPa": 7.31,
+    "viscosity_cP": 792.9,
+    "cure_time_min": 1322.0,
+    "CO2_g": 132846.0
+  },
+  {
+    "paper_id": "LIT-2021-019",
+    "doi": "10.1000/binder.5876",
+    "VOC_ratio_pct": 11.0,
+    "SiO2_Na2O_molar_ratio": 1.63,
+    "additive_list": [
+      "silica_fume"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 21.34,
+    "flexural_strength_MPa": 6.56,
+    "cure_time_min": 1195.0,
+    "CO2_g": 180050.0
+  },
+  {
+    "paper_id": "LIT-2018-020",
+    "doi": "10.1000/binder.1555",
+    "VOC_ratio_pct": 22.0,
+    "SiO2_Na2O_molar_ratio": 1.35,
+    "additive_list": [
+      "plasticizer",
+      "silica_fume"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 7.83,
+    "flexural_strength_MPa": 4.95,
+    "viscosity_cP": 629.6,
+    "cure_time_min": 2224.0,
+    "CO2_g": 184839.0
+  },
+  {
+    "paper_id": "LIT-2017-021",
+    "doi": "10.1000/binder.8899",
+    "VOC_ratio_pct": 23.3,
+    "SiO2_Na2O_molar_ratio": 2.09,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 10.71,
+    "flexural_strength_MPa": 5.6,
+    "viscosity_cP": 786.2,
+    "cure_time_min": 1500.0,
+    "CO2_g": 175782.0
+  },
+  {
+    "paper_id": "LIT-2018-022",
+    "doi": "10.1000/binder.2153",
+    "VOC_ratio_pct": 31.1,
+    "SiO2_Na2O_molar_ratio": 2.51,
+    "additive_list": [],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 8.27,
+    "flexural_strength_MPa": 3.9,
+    "viscosity_cP": 886.7,
+    "cure_time_min": 1421.0,
+    "CO2_g": 173244.0
+  },
+  {
+    "paper_id": "LIT-2024-023",
+    "doi": "10.1000/binder.2697",
+    "VOC_ratio_pct": 20.3,
+    "SiO2_Na2O_molar_ratio": 3.34,
+    "additive_list": [
+      "silica_fume",
+      "slag"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 18.67,
+    "viscosity_cP": 991.5,
+    "cure_time_min": 1253.0,
+    "CO2_g": 146484.0
+  },
+  {
+    "paper_id": "LIT-2019-024",
+    "doi": "10.1000/binder.7302",
+    "VOC_ratio_pct": 9.9,
+    "SiO2_Na2O_molar_ratio": 1.36,
+    "additive_list": [
+      "silica_fume",
+      "fiber_reinforcement"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 18.57,
+    "flexural_strength_MPa": 6.35,
+    "viscosity_cP": 625.5,
+    "cure_time_min": 1384.0,
+    "CO2_g": 182273.0
+  },
+  {
+    "paper_id": "LIT-2021-025",
+    "doi": "10.1000/binder.7054",
+    "VOC_ratio_pct": 17.4,
+    "SiO2_Na2O_molar_ratio": 2.78,
+    "additive_list": [
+      "plasticizer",
+      "fly_ash"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 19.59,
+    "flexural_strength_MPa": 5.96,
+    "viscosity_cP": 843.2,
+    "cure_time_min": 606.0,
+    "CO2_g": 144679.0
+  },
+  {
+    "paper_id": "LIT-2024-026",
+    "doi": "10.1000/binder.3897",
+    "VOC_ratio_pct": 39.4,
+    "SiO2_Na2O_molar_ratio": 2.19,
+    "additive_list": [],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": -1.48,
+    "flexural_strength_MPa": 1.89,
+    "viscosity_cP": 848.4,
+    "cure_time_min": 425.0,
+    "CO2_g": 185702.0
+  },
+  {
+    "paper_id": "LIT-2015-027",
+    "doi": "10.1000/binder.5754",
+    "VOC_ratio_pct": 31.3,
+    "SiO2_Na2O_molar_ratio": 1.33,
+    "additive_list": [
+      "slag",
+      "silica_fume"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 2.08,
+    "flexural_strength_MPa": 3.45,
+    "viscosity_cP": 731.8,
+    "cure_time_min": 2257.0,
+    "CO2_g": 217006.0
+  },
+  {
+    "paper_id": "LIT-2023-028",
+    "doi": "10.1000/binder.5597",
+    "VOC_ratio_pct": 9.1,
+    "SiO2_Na2O_molar_ratio": 3.43,
+    "additive_list": [
+      "fly_ash",
+      "fiber_reinforcement"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 34.67,
+    "flexural_strength_MPa": 8.91,
+    "viscosity_cP": 1004.1,
+    "cure_time_min": 1701.0,
+    "CO2_g": 103103.0
+  },
+  {
+    "paper_id": "LIT-2022-029",
+    "doi": "10.1000/binder.8245",
+    "VOC_ratio_pct": 33.3,
+    "SiO2_Na2O_molar_ratio": 2.74,
+    "additive_list": [
+      "plasticizer"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 4.8,
+    "flexural_strength_MPa": 3.99,
+    "viscosity_cP": 889.5,
+    "cure_time_min": 2016.0,
+    "CO2_g": 191716.0
+  },
+  {
+    "paper_id": "LIT-2021-030",
+    "doi": "10.1000/binder.5217",
+    "VOC_ratio_pct": 15.9,
+    "SiO2_Na2O_molar_ratio": 1.32,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 13.58,
+    "flexural_strength_MPa": 5.52,
+    "viscosity_cP": 671.1,
+    "cure_time_min": 2346.0,
+    "CO2_g": 185324.0
+  },
+  {
+    "paper_id": "LIT-2021-031",
+    "doi": "10.1000/binder.9417",
+    "VOC_ratio_pct": 32.3,
+    "SiO2_Na2O_molar_ratio": 3.26,
+    "additive_list": [
+      "fly_ash",
+      "fiber_reinforcement"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 4.56,
+    "flexural_strength_MPa": 3.96,
+    "viscosity_cP": 934.8,
+    "cure_time_min": 859.0,
+    "CO2_g": 140705.0
+  },
+  {
+    "paper_id": "LIT-2024-032",
+    "doi": "10.1000/binder.7913",
+    "VOC_ratio_pct": 5.4,
+    "SiO2_Na2O_molar_ratio": 1.26,
+    "additive_list": [],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 25.07,
+    "flexural_strength_MPa": 6.4,
+    "viscosity_cP": 603.2,
+    "cure_time_min": 875.0,
+    "CO2_g": 171426.0
+  },
+  {
+    "paper_id": "LIT-2018-033",
+    "doi": "10.1000/binder.7231",
+    "VOC_ratio_pct": 35.5,
+    "SiO2_Na2O_molar_ratio": 1.23,
+    "additive_list": [
+      "slag"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": -2.6,
+    "flexural_strength_MPa": 3.99,
+    "viscosity_cP": 618.3,
+    "cure_time_min": 957.0,
+    "CO2_g": 222207.0
+  },
+  {
+    "paper_id": "LIT-2017-034",
+    "doi": "10.1000/binder.3644",
+    "VOC_ratio_pct": 10.7,
+    "SiO2_Na2O_molar_ratio": 1.83,
+    "additive_list": [],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 21.61,
+    "flexural_strength_MPa": 6.66,
+    "viscosity_cP": 731.5,
+    "cure_time_min": 1010.0,
+    "CO2_g": 166180.0
+  },
+  {
+    "paper_id": "LIT-2020-035",
+    "doi": "10.1000/binder.5042",
+    "VOC_ratio_pct": 21.0,
+    "SiO2_Na2O_molar_ratio": 3.34,
+    "additive_list": [],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 21.96,
+    "flexural_strength_MPa": 6.33,
+    "viscosity_cP": 954.3,
+    "cure_time_min": 2260.0,
+    "CO2_g": 130501.0
+  },
+  {
+    "paper_id": "LIT-2020-036",
+    "doi": "10.1000/binder.1530",
+    "VOC_ratio_pct": 28.2,
+    "SiO2_Na2O_molar_ratio": 1.08,
+    "additive_list": [
+      "slag",
+      "silica_fume"
+    ],
+    "cure_method": "ambient",
+    "compressive_strength_MPa": 3.26,
+    "flexural_strength_MPa": 4.98,
+    "viscosity_cP": 685.4,
+    "cure_time_min": 1231.0,
+    "CO2_g": 217189.0
+  },
+  {
+    "paper_id": "LIT-2019-037",
+    "doi": "10.1000/binder.1807",
+    "VOC_ratio_pct": 22.8,
+    "SiO2_Na2O_molar_ratio": 3.3,
+    "additive_list": [
+      "fly_ash",
+      "silica_fume"
+    ],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 18.81,
+    "flexural_strength_MPa": 5.88,
+    "viscosity_cP": 963.5,
+    "cure_time_min": 1075.0,
+    "CO2_g": 131029.0
+  },
+  {
+    "paper_id": "LIT-2017-038",
+    "doi": "10.1000/binder.9382",
+    "VOC_ratio_pct": 10.8,
+    "SiO2_Na2O_molar_ratio": 2.53,
+    "additive_list": [
+      "slag",
+      "fly_ash"
+    ],
+    "cure_method": "steam",
+    "compressive_strength_MPa": 27.63,
+    "flexural_strength_MPa": 8.0,
+    "viscosity_cP": 801.0,
+    "cure_time_min": 1918.0,
+    "CO2_g": 138060.0
+  },
+  {
+    "paper_id": "LIT-2018-039",
+    "doi": "10.1000/binder.7938",
+    "VOC_ratio_pct": 9.9,
+    "SiO2_Na2O_molar_ratio": 1.17,
+    "additive_list": [],
+    "cure_method": "autoclave",
+    "compressive_strength_MPa": 20.27,
+    "flexural_strength_MPa": 6.19,
+    "viscosity_cP": 546.2,
+    "cure_time_min": 725.0,
+    "CO2_g": 181999.0
+  }
+]

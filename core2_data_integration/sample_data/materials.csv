@@ -1,0 +1,181 @@
+id,name,source_type,resin_voc_ratio,sio2_na2o_ratio,additives,curing_method,created_at
+1,EXP-000,experimental,0.269,1.48,"{""fly_ash"": true, ""silica_fume"": true}",ambient,2026-10-12 08:46:00.012315
+2,EXP-001,experimental,0.364,3.32,"{""silica_fume"": true, ""plasticizer"": true}",ambient,2026-10-12 08:46:00.013313
+3,EXP-002,experimental,0.321,2.38,"{""fly_ash"": true}",ambient,2026-10-12 08:46:00.013746
+4,EXP-003,experimental,0.129,1.45,"{""silica_fume"": true}",steam,2026-10-12 08:46:00.014119
+5,EXP-004,experimental,0.155,3.21,"{""fly_ash"": true, ""plasticizer"": true}",ambient,2026-10-12 08:46:00.014518
+6,EXP-005,experimental,0.356,2.6,"{""slag"": true, ""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.014884
+7,EXP-006,experimental,0.052,2.42,{},autoclave,2026-10-12 08:46:00.015275
+8,EXP-007,experimental,0.337,1.94,"{""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.015642
+9,EXP-008,experimental,0.329,2.03,"{""silica_fume"": true}",steam,2026-10-12 08:46:00.015966
+10,EXP-009,experimental,0.214,1.6,{},autoclave,2026-10-12 08:46:00.016355
+11,EXP-010,experimental,0.156,1.1,"{""silica_fume"": true, ""fly_ash"": true}",ambient,2026-10-12 08:46:00.016684
+12,EXP-011,experimental,0.147,3.19,"{""slag"": true, ""silica_fume"": true}",autoclave,2026-10-12 08:46:00.017004
+13,EXP-012,experimental,0.139,2.17,"{""fiber_reinforcement"": true}",autoclave,2026-10-12 08:46:00.017371
+14,EXP-013,experimental,0.206,2.37,"{""plasticizer"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.017696
+15,EXP-014,experimental,0.227,1.81,{},autoclave,2026-10-12 08:46:00.018011
+16,EXP-015,experimental,0.244,2.88,{},ambient,2026-10-12 08:46:00.018330
+17,EXP-016,experimental,0.398,1.06,{},autoclave,2026-10-12 08:46:00.018619
+18,EXP-017,experimental,0.327,1.93,"{""fiber_reinforcement"": true, ""fly_ash"": true}",steam,2026-10-12 08:46:00.018909
+19,EXP-018,experimental,0.268,1.08,{},ambient,2026-10-12 08:46:00.019270
+20,EXP-019,experimental,0.396,1.31,"{""fiber_reinforcement"": true, ""fly_ash"": true}",ambient,2026-10-12 08:46:00.019645
+21,EXP-020,experimental,0.125,3.42,"{""plasticizer"": true, ""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.020085
+22,EXP-021,experimental,0.106,2.64,"{""silica_fume"": true, ""fiber_reinforcement"": true}",autoclave,2026-10-12 08:46:00.020529
+23,EXP-022,experimental,0.264,2.07,"{""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.020849
+24,EXP-023,experimental,0.065,2.31,"{""plasticizer"": true, ""fly_ash"": true}",steam,2026-10-12 08:46:00.021187
+25,EXP-024,experimental,0.062,3.18,{},ambient,2026-10-12 08:46:00.021521
+26,EXP-025,experimental,0.23,1.86,"{""silica_fume"": true, ""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.021836
+27,EXP-026,experimental,0.213,2.48,"{""silica_fume"": true, ""fly_ash"": true}",ambient,2026-10-12 08:46:00.022248
+28,EXP-027,experimental,0.371,2.71,"{""fly_ash"": true, ""fiber_reinforcement"": true}",autoclave,2026-10-12 08:46:00.022568
+29,EXP-028,experimental,0.27,1.89,"{""plasticizer"": true, ""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.022924
+30,EXP-029,experimental,0.23,2.3,"{""fiber_reinforcement"": true}",autoclave,2026-10-12 08:46:00.023297
+31,EXP-030,experimental,0.224,2.91,{},ambient,2026-10-12 08:46:00.023692
+32,EXP-031,experimental,0.137,3.27,{},ambient,2026-10-12 08:46:00.024023
+33,EXP-032,experimental,0.054,1.38,"{""plasticizer"": true}",ambient,2026-10-12 08:46:00.024435
+34,EXP-033,experimental,0.117,3.33,"{""fly_ash"": true, ""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.024752
+35,EXP-034,experimental,0.292,1.01,{},autoclave,2026-10-12 08:46:00.025057
+36,EXP-035,experimental,0.12,2.88,"{""slag"": true, ""silica_fume"": true}",steam,2026-10-12 08:46:00.025390
+37,EXP-036,experimental,0.179,3.03,"{""plasticizer"": true}",steam,2026-10-12 08:46:00.025703
+38,EXP-037,experimental,0.051,1.34,"{""fly_ash"": true}",autoclave,2026-10-12 08:46:00.026018
+39,EXP-038,experimental,0.341,2.05,"{""fly_ash"": true, ""plasticizer"": true}",ambient,2026-10-12 08:46:00.026377
+40,EXP-039,experimental,0.104,3.04,"{""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.026664
+41,EXP-040,experimental,0.144,1.04,{},autoclave,2026-10-12 08:46:00.026967
+42,EXP-041,experimental,0.358,2.57,"{""silica_fume"": true, ""plasticizer"": true}",autoclave,2026-10-12 08:46:00.027428
+43,EXP-042,experimental,0.228,2.98,"{""plasticizer"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.027773
+44,EXP-043,experimental,0.347,2.28,"{""silica_fume"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.028101
+45,EXP-044,experimental,0.274,2.81,"{""fly_ash"": true}",steam,2026-10-12 08:46:00.028516
+46,EXP-045,experimental,0.31,1.57,{},autoclave,2026-10-12 08:46:00.028896
+47,EXP-046,experimental,0.082,1.5,"{""fiber_reinforcement"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.029261
+48,EXP-047,experimental,0.239,1.91,{},autoclave,2026-10-12 08:46:00.029583
+49,EXP-048,experimental,0.228,1.45,"{""slag"": true, ""fly_ash"": true}",steam,2026-10-12 08:46:00.029887
+50,EXP-049,experimental,0.355,1.87,"{""silica_fume"": true}",autoclave,2026-10-12 08:46:00.030235
+51,EXP-050,experimental,0.176,3.37,"{""slag"": true}",steam,2026-10-12 08:46:00.030543
+52,EXP-051,experimental,0.259,2.43,{},steam,2026-10-12 08:46:00.030841
+53,EXP-052,experimental,0.071,1.85,"{""plasticizer"": true}",steam,2026-10-12 08:46:00.031127
+54,EXP-053,experimental,0.186,1.68,"{""slag"": true}",autoclave,2026-10-12 08:46:00.031479
+55,EXP-054,experimental,0.163,3.38,{},steam,2026-10-12 08:46:00.031790
+56,EXP-055,experimental,0.103,2.11,"{""plasticizer"": true}",autoclave,2026-10-12 08:46:00.032083
+57,EXP-056,experimental,0.336,3.45,"{""fly_ash"": true}",autoclave,2026-10-12 08:46:00.032427
+58,EXP-057,experimental,0.183,2.29,"{""silica_fume"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.032721
+59,EXP-058,experimental,0.393,2.3,"{""plasticizer"": true, ""silica_fume"": true}",autoclave,2026-10-12 08:46:00.033043
+60,EXP-059,experimental,0.256,3.24,"{""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.033384
+61,EXP-060,experimental,0.262,2.86,{},ambient,2026-10-12 08:46:00.033682
+62,EXP-061,experimental,0.273,2.45,{},ambient,2026-10-12 08:46:00.033973
+63,EXP-062,experimental,0.287,2.07,"{""plasticizer"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.034280
+64,EXP-063,experimental,0.103,3.2,{},steam,2026-10-12 08:46:00.034563
+65,EXP-064,experimental,0.204,2.03,"{""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.034868
+66,EXP-065,experimental,0.134,3.31,"{""fiber_reinforcement"": true, ""silica_fume"": true}",steam,2026-10-12 08:46:00.035184
+67,EXP-066,experimental,0.191,1.17,{},autoclave,2026-10-12 08:46:00.035472
+68,EXP-067,experimental,0.084,2.07,{},autoclave,2026-10-12 08:46:00.035740
+69,EXP-068,experimental,0.389,2.3,"{""fly_ash"": true}",autoclave,2026-10-12 08:46:00.036037
+70,EXP-069,experimental,0.125,3.38,"{""fly_ash"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.036384
+71,EXP-070,experimental,0.285,1.63,{},ambient,2026-10-12 08:46:00.036671
+72,EXP-071,experimental,0.155,3.02,{},autoclave,2026-10-12 08:46:00.036949
+73,EXP-072,experimental,0.356,2.69,"{""slag"": true}",autoclave,2026-10-12 08:46:00.037244
+74,EXP-073,experimental,0.282,2.79,"{""silica_fume"": true, ""plasticizer"": true}",autoclave,2026-10-12 08:46:00.037516
+75,EXP-074,experimental,0.096,2.57,"{""fly_ash"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.037817
+76,EXP-075,experimental,0.346,3.43,"{""fly_ash"": true, ""plasticizer"": true}",autoclave,2026-10-12 08:46:00.038101
+77,EXP-076,experimental,0.381,1.83,{},steam,2026-10-12 08:46:00.038419
+78,EXP-077,experimental,0.366,2.0,{},steam,2026-10-12 08:46:00.038694
+79,EXP-078,experimental,0.249,1.51,{},steam,2026-10-12 08:46:00.038970
+80,EXP-079,experimental,0.101,1.13,"{""fly_ash"": true}",steam,2026-10-12 08:46:00.039278
+81,LIT-2017-000,literature,0.145,1.71,"{""slag"": true, ""fly_ash"": true}",ambient,2026-10-12 08:46:00.095827
+82,LIT-2017-001,literature,0.18,1.13,"{""plasticizer"": true}",steam,2026-10-12 08:46:00.096467
+83,LIT-2018-002,literature,0.24,1.54,"{""fiber_reinforcement"": true, ""silica_fume"": true}",ambient,2026-10-12 08:46:00.096841
+84,LIT-2024-003,literature,0.29,1.33,"{""plasticizer"": true}",steam,2026-10-12 08:46:00.097206
+85,LIT-2022-004,literature,0.24600000000000002,2.16,{},ambient,2026-10-12 08:46:00.097540
+86,LIT-2024-005,literature,0.087,1.89,"{""fly_ash"": true, ""slag"": true}",autoclave,2026-10-12 08:46:00.097868
+87,LIT-2015-006,literature,0.336,2.47,{},steam,2026-10-12 08:46:00.098225
+88,LIT-2015-007,literature,0.373,1.7,{},autoclave,2026-10-12 08:46:00.098549
+89,LIT-2024-008,literature,0.085,1.08,"{""fiber_reinforcement"": true}",steam,2026-10-12 08:46:00.098859
+90,LIT-2024-009,literature,0.13699999999999998,1.83,"{""slag"": true}",ambient,2026-10-12 08:46:00.099178
+91,LIT-2015-010,literature,0.111,2.89,"{""silica_fume"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.099471
+92,LIT-2024-011,literature,0.34700000000000003,1.64,"{""silica_fume"": true, ""plasticizer"": true}",steam,2026-10-12 08:46:00.099751
+93,LIT-2015-012,literature,0.369,2.01,"{""fiber_reinforcement"": true, ""silica_fume"": true}",ambient,2026-10-12 08:46:00.100063
+94,LIT-2022-013,literature,0.065,2.89,"{""fly_ash"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.100415
+95,LIT-2020-014,literature,0.166,2.02,"{""plasticizer"": true}",autoclave,2026-10-12 08:46:00.100700
+96,LIT-2024-015,literature,0.11699999999999999,3.22,{},steam,2026-10-12 08:46:00.100982
+97,LIT-2018-016,literature,0.214,3.3,"{""silica_fume"": true}",autoclave,2026-10-12 08:46:00.101279
+98,LIT-2015-017,literature,0.373,1.78,{},steam,2026-10-12 08:46:00.101565
+99,LIT-2024-018,literature,0.075,2.84,"{""slag"": true, ""silica_fume"": true}",autoclave,2026-10-12 08:46:00.102020
+100,LIT-2021-019,literature,0.11,1.63,"{""silica_fume"": true}",autoclave,2026-10-12 08:46:00.102433
+101,LIT-2018-020,literature,0.22,1.35,"{""plasticizer"": true, ""silica_fume"": true}",autoclave,2026-10-12 08:46:00.102753
+102,LIT-2017-021,literature,0.233,2.09,{},steam,2026-10-12 08:46:00.103056
+103,LIT-2018-022,literature,0.311,2.51,{},autoclave,2026-10-12 08:46:00.103388
+104,LIT-2024-023,literature,0.203,3.34,"{""silica_fume"": true, ""slag"": true}",ambient,2026-10-12 08:46:00.103720
+105,LIT-2019-024,literature,0.099,1.36,"{""silica_fume"": true, ""fiber_reinforcement"": true}",autoclave,2026-10-12 08:46:00.104051
+106,LIT-2021-025,literature,0.174,2.78,"{""plasticizer"": true, ""fly_ash"": true}",ambient,2026-10-12 08:46:00.104472
+107,LIT-2024-026,literature,0.39399999999999996,2.19,{},autoclave,2026-10-12 08:46:00.104825
+108,LIT-2015-027,literature,0.313,1.33,"{""slag"": true, ""silica_fume"": true}",ambient,2026-10-12 08:46:00.105209
+109,LIT-2023-028,literature,0.091,3.43,"{""fly_ash"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.105540
+110,LIT-2022-029,literature,0.33299999999999996,2.74,"{""plasticizer"": true}",autoclave,2026-10-12 08:46:00.105842
+111,LIT-2021-030,literature,0.159,1.32,{},steam,2026-10-12 08:46:00.106125
+112,LIT-2021-031,literature,0.32299999999999995,3.26,"{""fly_ash"": true, ""fiber_reinforcement"": true}",ambient,2026-10-12 08:46:00.106447
+113,LIT-2024-032,literature,0.054000000000000006,1.26,{},steam,2026-10-12 08:46:00.106757
+114,LIT-2018-033,literature,0.355,1.23,"{""slag"": true}",ambient,2026-10-12 08:46:00.107062
+115,LIT-2017-034,literature,0.107,1.83,{},autoclave,2026-10-12 08:46:00.107391
+116,LIT-2020-035,literature,0.21,3.34,{},ambient,2026-10-12 08:46:00.107708
+117,LIT-2020-036,literature,0.282,1.08,"{""slag"": true, ""silica_fume"": true}",ambient,2026-10-12 08:46:00.107998
+118,LIT-2019-037,literature,0.228,3.3,"{""fly_ash"": true, ""silica_fume"": true}",autoclave,2026-10-12 08:46:00.108360
+119,LIT-2017-038,literature,0.10800000000000001,2.53,"{""slag"": true, ""fly_ash"": true}",steam,2026-10-12 08:46:00.108819
+120,LIT-2018-039,literature,0.099,1.17,{},autoclave,2026-10-12 08:46:00.109235
+121,BATCH-0000,process_log,0.36,3.1,{},steam,2026-10-12 08:46:00.145958
+122,BATCH-0001,process_log,0.297,1.9,{},ambient,2026-10-12 08:46:00.146568
+123,BATCH-0002,process_log,0.215,1.25,{},autoclave,2026-10-12 08:46:00.147007
+124,BATCH-0003,process_log,0.335,2.82,{},autoclave,2026-10-12 08:46:00.147385
+125,BATCH-0004,process_log,0.22,1.34,{},steam,2026-10-12 08:46:00.147710
+126,BATCH-0005,process_log,0.387,1.96,{},ambient,2026-10-12 08:46:00.148038
+127,BATCH-0006,process_log,0.149,3.49,{},autoclave,2026-10-12 08:46:00.148451
+128,BATCH-0007,process_log,0.095,2.4,{},ambient,2026-10-12 08:46:00.148772
+129,BATCH-0008,process_log,0.341,2.3,{},steam,2026-10-12 08:46:00.149088
+130,BATCH-0009,process_log,0.154,3.37,{},steam,2026-10-12 08:46:00.149417
+131,BATCH-0010,process_log,0.347,1.71,{},steam,2026-10-12 08:46:00.149704
+132,BATCH-0011,process_log,0.263,3.5,{},ambient,2026-10-12 08:46:00.149997
+133,BATCH-0012,process_log,0.228,3.28,{},steam,2026-10-12 08:46:00.150304
+134,BATCH-0013,process_log,0.08,1.91,{},steam,2026-10-12 08:46:00.150613
+135,BATCH-0014,process_log,0.325,1.82,{},steam,2026-10-12 08:46:00.150909
+136,BATCH-0015,process_log,0.073,1.32,{},steam,2026-10-12 08:46:00.151217
+137,BATCH-0016,process_log,0.388,3.29,{},ambient,2026-10-12 08:46:00.151501
+138,BATCH-0017,process_log,0.357,1.46,{},ambient,2026-10-12 08:46:00.151768
+139,BATCH-0018,process_log,0.156,1.02,{},steam,2026-10-12 08:46:00.152048
+140,BATCH-0019,process_log,0.095,3.23,{},autoclave,2026-10-12 08:46:00.152393
+141,BATCH-0020,process_log,0.36,2.5,{},ambient,2026-10-12 08:46:00.152697
+142,BATCH-0021,process_log,0.218,2.68,{},ambient,2026-10-12 08:46:00.152991
+143,BATCH-0022,process_log,0.094,2.83,{},steam,2026-10-12 08:46:00.153324
+144,BATCH-0023,process_log,0.224,1.11,{},ambient,2026-10-12 08:46:00.153602
+145,BATCH-0024,process_log,0.136,1.23,{},ambient,2026-10-12 08:46:00.153874
+146,BATCH-0025,process_log,0.193,2.25,{},autoclave,2026-10-12 08:46:00.154193
+147,BATCH-0026,process_log,0.274,1.13,{},steam,2026-10-12 08:46:00.154496
+148,BATCH-0027,process_log,0.37,2.26,{},autoclave,2026-10-12 08:46:00.154774
+149,BATCH-0028,process_log,0.33,2.84,{},autoclave,2026-10-12 08:46:00.155054
+150,BATCH-0029,process_log,0.106,2.64,{},steam,2026-10-12 08:46:00.155351
+151,BATCH-0030,process_log,0.217,2.54,{},steam,2026-10-12 08:46:00.155615
+152,BATCH-0031,process_log,0.222,1.12,{},ambient,2026-10-12 08:46:00.155904
+153,BATCH-0032,process_log,0.396,1.59,{},ambient,2026-10-12 08:46:00.156241
+154,BATCH-0033,process_log,0.08,3.24,{},ambient,2026-10-12 08:46:00.156530
+155,BATCH-0034,process_log,0.229,1.31,{},steam,2026-10-12 08:46:00.156806
+156,BATCH-0035,process_log,0.37,2.33,{},steam,2026-10-12 08:46:00.157090
+157,BATCH-0036,process_log,0.19,1.13,{},ambient,2026-10-12 08:46:00.157429
+158,BATCH-0037,process_log,0.142,3.35,{},ambient,2026-10-12 08:46:00.157715
+159,BATCH-0038,process_log,0.245,1.43,{},autoclave,2026-10-12 08:46:00.157997
+160,BATCH-0039,process_log,0.162,2.03,{},ambient,2026-10-12 08:46:00.158290
+161,BATCH-0040,process_log,0.374,2.37,{},ambient,2026-10-12 08:46:00.158555
+162,BATCH-0041,process_log,0.08,2.8,{},ambient,2026-10-12 08:46:00.158895
+163,BATCH-0042,process_log,0.122,3.34,{},steam,2026-10-12 08:46:00.159218
+164,BATCH-0043,process_log,0.079,2.84,{},steam,2026-10-12 08:46:00.159527
+165,BATCH-0044,process_log,0.299,1.87,{},steam,2026-10-12 08:46:00.159811
+166,BATCH-0045,process_log,0.153,1.19,{},ambient,2026-10-12 08:46:00.160082
+167,BATCH-0046,process_log,0.365,2.77,{},ambient,2026-10-12 08:46:00.160427
+168,BATCH-0047,process_log,0.363,3.43,{},ambient,2026-10-12 08:46:00.160726
+169,BATCH-0048,process_log,0.378,1.04,{},ambient,2026-10-12 08:46:00.161021
+170,BATCH-0049,process_log,0.14,2.94,{},autoclave,2026-10-12 08:46:00.161320
+171,BATCH-0050,process_log,0.05,1.44,{},ambient,2026-10-12 08:46:00.161590
+172,BATCH-0051,process_log,0.186,2.15,{},steam,2026-10-12 08:46:00.161864
+173,BATCH-0052,process_log,0.387,2.31,{},autoclave,2026-10-12 08:46:00.162181
+174,BATCH-0053,process_log,0.317,2.54,{},steam,2026-10-12 08:46:00.162473
+175,BATCH-0054,process_log,0.071,3.47,{},autoclave,2026-10-12 08:46:00.162742
+176,BATCH-0055,process_log,0.296,2.72,{},steam,2026-10-12 08:46:00.163015
+177,BATCH-0056,process_log,0.371,1.98,{},steam,2026-10-12 08:46:00.163312
+178,BATCH-0057,process_log,0.389,2.79,{},autoclave,2026-10-12 08:46:00.163603
+179,BATCH-0058,process_log,0.301,2.17,{},autoclave,2026-10-12 08:46:00.163917
+180,BATCH-0059,process_log,0.352,2.03,{},steam,2026-10-12 08:46:00.164287

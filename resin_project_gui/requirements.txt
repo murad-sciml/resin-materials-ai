@@ -1,0 +1,10 @@
+# Tkinter ships with standard Python on Windows/Mac; on Linux you may need
+# your distro's package (e.g. `sudo apt install python3-tk` on Ubuntu/Debian).
+matplotlib>=3.7
+
+# The GUI imports core1-4 directly, so their dependencies are needed too:
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+sqlalchemy>=2.0
